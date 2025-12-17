@@ -1,0 +1,37 @@
+# System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+*:Zone.Identifier
+
+# IDE and Editor Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Compilation and Simulation Files
+*.vcd
+*.wlf
+work/
+transcript
+vsim.wlf
+*.log
+
+# MIPS Simulator Files
+*.obj
+*.hex
+*.bin
+
+# Backup Files
+*.bak
+*.backup
+
+# Temporary Files
+*.tmp
+*.temp
