@@ -1,6 +1,6 @@
 # 🖥️ Computer Organization & Architecture Portfolio
 
-[![Cooper Union](https://img.shields.io/badge/Cooper%20Union-ECE%20366-blue.svg)](https://cooper.edu)
+
 [![Verilog](https://img.shields.io/badge/HDL-Verilog-orange.svg)](https://en.wikipedia.org/wiki/Verilog)
 [![MIPS](https://img.shields.io/badge/ISA-MIPS32-green.svg)](https://en.wikipedia.org/wiki/MIPS_architecture)
 
@@ -602,7 +602,7 @@ Assembly programs validated against:
 ## 📄 License
 
 This repository contains academic coursework for educational purposes.  
-**Author**: Cooper Union ECE Student  
+**Author**: Akbar Aman 
 **Course**: ECE 366 Computer Organization (Fall 2024)
 
 ---
