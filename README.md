@@ -559,7 +559,7 @@ Assembly programs validated against:
 
 ## 📚 Course Context
 
-**Institution**: The Cooper Union for the Advancement of Science and Art  
+**Institution**: University of Illinois at Chicago
 **Course**: ECE 366 - Computer Organization  
 **Topics Covered**:
 - Boolean algebra and combinational logic
